@@ -1,4 +1,4 @@
-# Spheroid Image Processing Pipeline
+# Automated Image-Based Analysis of Tumor Spheroids
 
 This repository contains a series of Python scripts that work after one another to process images of spheroidal tissue models, perform segmentation using a YOLO model, post-process the segmentation masks, and analyze image darkness scores. The scripts are numbered in the order in which they should be executed.
 
